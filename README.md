@@ -4,8 +4,10 @@
 
 </div>
 
+<div align="center">
+  
 ### 🚀 DevOps Engineer | AWS | Kubernetes | Docker | Terraform
-
+</div>
 - 🔭 I’m currently working on container orchestration and cloud automation  
 - 🌱 I’m learning GitOps, Helm, and Harness CI/CD  
 - 👯 I’m looking to collaborate on open-source DevOps tools  
