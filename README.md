@@ -1,5 +1,3 @@
-<div align="center">
-
 <h1>Hi 👋, I'm Vijay</h1>
 
 <p><b>🚀 DevOps Engineer | AWS | Kubernetes | Docker | Terraform</b></p>
@@ -9,9 +7,6 @@
 <p><b>💬 Ask me about AWS, CI/CD, Docker, Kubernetes, Terraform</b></p>
 <p><b>📫 How to reach me: vijaykumarbakeeru5@example.com</b></p>
 <p><b>⚡ Fun fact: I build superhero mnemonics for Kubernetes concepts 🦸‍♂️</b></p>
-
-</div>
-
 
 ## 🛠️ Languages and Tools  
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)  
