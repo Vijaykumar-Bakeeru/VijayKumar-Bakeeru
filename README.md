@@ -10,7 +10,8 @@
 
 </div>
 
-- 🔭 I’m currently working on container orchestration and cloud automation  
+- 🔭 I’m currently working on container orchestration and cloud automation
+  
 - 🌱 I’m learning GitOps, Helm, and Harness CI/CD  
 - 👯 I’m looking to collaborate on open-source DevOps tools  
 - 💬 Ask me about AWS, CI/CD, Docker, Kubernetes, Terraform  
