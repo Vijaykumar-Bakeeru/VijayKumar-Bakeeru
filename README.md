@@ -1,4 +1,9 @@
-# Hi 👋, I'm Vijay  
+<div align="center">
+  
+# Hi 👋, I'm Vijay kumar
+
+</div>
+
 ### 🚀 DevOps Engineer | AWS | Kubernetes | Docker | Terraform
 
 - 🔭 I’m currently working on container orchestration and cloud automation  
