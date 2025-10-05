@@ -5,7 +5,7 @@
 - 🌱 I’m learning GitOps, Helm, and Harness CI/CD  
 - 👯 I’m looking to collaborate on open-source DevOps tools  
 - 💬 Ask me about AWS, CI/CD, Docker, Kubernetes, Terraform  
-- 📫 How to reach me: vijay.devops@example.com  
+- 📫 How to reach me: vijaykumarbakeeru5@example.com  
 - ⚡ Fun fact: I build superhero mnemonics for Kubernetes concepts 🦸‍♂️  
 
 ---
