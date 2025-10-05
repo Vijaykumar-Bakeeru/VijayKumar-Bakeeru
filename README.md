@@ -1,8 +1,7 @@
 <div align="center">
 
 <h1>Hi 👋, I'm Vijay</h1>  
-<p>A passionate AWS DevOps Engineer from Hyderabad, India</p>
-
+<b>A passionate AWS DevOps Engineer from Hyderabad, India</b>
 </div>
 ### 🚀 DevOps Engineer | AWS | Kubernetes | Docker | Terraform
 
