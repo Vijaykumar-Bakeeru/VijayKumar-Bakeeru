@@ -1,4 +1,9 @@
-# Hi 👋, I'm Vijay  
+<div align="center">
+
+<h1>Hi 👋, I'm Vijay</h1>  
+<p>A passionate AWS DevOps Engineer from Hyderabad, India</p>
+
+</div>
 ### 🚀 DevOps Engineer | AWS | Kubernetes | Docker | Terraform
 
 - 🔭 I’m currently working on container orchestration and cloud automation  
